@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "T氏の話を信じるな",
+  "base_artist": "ピノキオピー",
+  "createdAt": "2025-12-02T11:44:24.727706Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "T氏の話を信じるな",
+      "artist": "ピノキオピー feat. 初音ミク & 重音テト",
+      "has_synced": true,
+      "path": "select/01_T氏の話を信じるな_ピノキオピー_feat._初音ミク_&_重音テト.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "T氏の話を信じるな (feat. 初音ミク & 重音テト)",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_01_T氏の話を信じるな_(feat._初音ミク_&_重音テト)_ピノキオピー.txt"
+    }
+  ]
+}
